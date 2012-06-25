@@ -9,4 +9,5 @@ PACKAGE_BUILDNAME = private
 endif
 
 internal-stage::
-	$(FAKEROOT) chown -R 0:80 _
+	-find $(THEOS_STAGING_DIR) -iname 'en.lproj' -exec rm -rf {} \;
+	$(FAKEROOT) chown -R 0:80 $(THEOS_STAGING_DIR)
