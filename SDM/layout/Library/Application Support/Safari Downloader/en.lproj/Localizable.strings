@@ -1,0 +1,47 @@
+"DOWNLOADS_TITLE" = "Downloads";
+"DOWNLOAD_TARGET" = "Download Target";
+"DOWNLOAD_IMAGE" = "Download Image";
+"STATUS_RETRYING" = "Retrying...";
+"STATUS_FAILED" = "Failed - Tap to Retry";
+"STATUS_CANCELLED" = "Cancelled";
+"STATUS_WAITING_AUTH" = "Awaiting Authentication...";
+"STATUS_WAITING" = "Waiting...";
+"STATUS_DOWNLOADING_SPEED" = "Downloading @ %@/s";
+"PERCENTAGE" = "%u%%";
+"CANCEL_ALL_PROMPT" = "Cancel All Downloads?";
+"CLEAR_ALL_PROMPT" = "Clear All Downloads?";
+"YES" = "Yes";
+"NO" = "No";
+"OK" = "OK";
+"RETRY" = "Retry";
+"DELETE" = "Delete";
+"CANCEL" = "Cancel";
+"CLEAR" = "Clear";
+"DONE" = "Done";
+"CANCEL_ALL_SHORT" = "Cancel All";
+"CLEAR_ALL_SHORT" = "Clear All";
+"NOTHING_TO_CANCEL" = "Nothing to Cancel";
+"NOTHING_TO_CLEAR" = "Nothing to Clear";
+"SIZE_BYTES" = "%.1lf B";
+"SIZE_KILOBYTES" = "%.1lf KB";
+"SIZE_MEGABYTES" = "%.1lf MB";
+
+// Download Prompt
+"DOWNLOAD_PROMPT_TITLE" = "Download";
+"SAVE_INTO" = "Destination";
+"ACTION_DOWNLOAD" = "Download";
+"ACTION_VIEW" = "View";
+"ACTION_CANCEL" = "Cancel";
+"ACTION_CHOOSE_DIRECTORY" = "Choose";
+"ACTION_SAVE_AS" = "Save Here";
+
+// Download Actions
+"OPEN_WITH_" = "Open in %@";
+
+// Other
+"SAVE_AS_PROMPT_" = "Choose a destination for \"%@\".";
+"SAVE_AS_PROMPT" = "Choose a destination for the file.";
+"NEW_DIRECTORY_TITLE" = "New Folder";
+"NEW_DIRECTORY_NAME_PLACEHOLDER" = "Folder Name";
+"ACTION_CREATE_DIRECTORY" = "Create";
+"HOME_FOLDER" = "Home Folder";
