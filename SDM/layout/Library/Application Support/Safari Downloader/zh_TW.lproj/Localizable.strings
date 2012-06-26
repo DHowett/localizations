@@ -40,7 +40,7 @@
 
 // Other
 "SAVE_AS_PROMPT_" = "選擇“%@”的儲存位置。";
-"SAVE_AS_PROMPT" = "選擇文件的儲存位置。";
+"SAVE_AS_PROMPT" = "選擇檔案的儲存位置。";
 "NEW_DIRECTORY_TITLE" = "新資料夾";
 "NEW_DIRECTORY_NAME_PLACEHOLDER" = "資料夾名稱";
 "ACTION_CREATE_DIRECTORY" = "新增";
