@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_FILE_TYPE</key>
+	<string>הוספת סוג קובץ...</string>
+	<key>ADD_FILE_TYPE_PROMPT</key>
+	<string>הזנת המידע עבור הסיומת החדשה</string>
+	<key>AUTO_RETRY</key>
+	<string>ניסיון מחדש-אוטומטי</string>
+	<key>AUTO_RETRY_ENABLED</key>
+	<string>ניסיון מחדש נכשל</string>
+	<key>AUTO_RETRY_SETTINGS</key>
+	<string>הגדרות ניסיון מחדש</string>
+	<key>BUILT_IN_TYPES</key>
+	<string>סוגים מובנים</string>
+	<key>CANCEL</key>
+	<string>ביטול</string>
+	<key>CUSTOM</key>
+	<string>מותאם אישית</string>
+	<key>DELETE_FILE_TYPE</key>
+	<string>מחיקת סיומת קובץ</string>
+	<key>DETAILS</key>
+	<string>פרטים</string>
+	<key>DOWNLOADER_ENABLED</key>
+	<string>הורדת קבצים</string>
+	<key>EDIT_FILE_TYPE_PROMPT</key>
+	<string>הזנת המידע עבור הסיומת</string>
+	<key>EXTENSIONS_GROUP</key>
+	<string>סיומות</string>
+	<key>EXTENSIONS_PLACEHOLDER</key>
+	<string>סיומת</string>
+	<key>FILE_TYPES</key>
+	<string>סוגי קבצים</string>
+	<key>FILE_TYPE_DISABLE_EXPLANATION</key>
+	<string>השבתת סוג קובץ תגרום לספארי לא לשאול אותך האם להוריד אותו, וינהג כרגיל.</string>
+	<key>MAX_CONCURRENT_DOWNLOADS</key>
+	<string>מקסימום הורדות משולבות</string>
+	<key>MIMETYPES_GROUP</key>
+	<string>סוגי MIME</string>
+	<key>MIMETYPES_PLACEHOLDER</key>
+	<string>סוג MIME</string>
+	<key>NAME</key>
+	<string>שם</string>
+	<key>NAME_PLACEHOLDER</key>
+	<string>שם סוג קובץ</string>
+	<key>NEW_FILE_TYPE</key>
+	<string>סוג קובץ חדש</string>
+	<key>RETRY_ATTEMPTS</key>
+	<string>מס׳ ניסיונות</string>
+	<key>RETRY_ATTEMPTS_1</key>
+	<string>ניסיון אחד</string>
+	<key>RETRY_ATTEMPTS_2</key>
+	<string>2 ניסיונות</string>
+	<key>RETRY_ATTEMPTS_3</key>
+	<string>3 ניסיונות</string>
+	<key>RETRY_ATTEMPTS_4</key>
+	<string>4 ניסיונות</string>
+	<key>RETRY_ATTEMPTS_5</key>
+	<string>5 ניסיונות</string>
+	<key>RETRY_DELAY</key>
+	<string>זמן המתנה (שניות)</string>
+	<key>SAVE</key>
+	<string>שמירה</string>
+</dict>
+</plist>

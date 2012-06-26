@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTION_CANCEL</key>
+	<string>ביטול</string>
+	<key>ACTION_CHOOSE_DIRECTORY</key>
+	<string>בחירה</string>
+	<key>ACTION_CREATE_DIRECTORY</key>
+	<string>יצירה</string>
+	<key>ACTION_DOWNLOAD</key>
+	<string>הורדה</string>
+	<key>ACTION_SAVE_AS</key>
+	<string>שמירה בשם</string>
+	<key>ACTION_VIEW</key>
+	<string>הצגה</string>
+	<key>CANCEL</key>
+	<string>ביטול</string>
+	<key>CANCEL_ALL_PROMPT</key>
+	<string>האם לבטל את כל ההורדות ?</string>
+	<key>CANCEL_ALL_SHORT</key>
+	<string>ביטול הכל</string>
+	<key>CLEAR</key>
+	<string>נקה</string>
+	<key>CLEAR_ALL_PROMPT</key>
+	<string>האם לנקות את כל ההורדות ?</string>
+	<key>CLEAR_ALL_SHORT</key>
+	<string>נקה הכל</string>
+	<key>DELETE</key>
+	<string>מחיקה</string>
+	<key>DONE</key>
+	<string>סיום</string>
+	<key>DOWNLOADS_TITLE</key>
+	<string>הורדות</string>
+	<key>DOWNLOAD_IMAGE</key>
+	<string>הורדת תמונה</string>
+	<key>DOWNLOAD_PROMPT_TITLE</key>
+	<string>הורדה</string>
+	<key>DOWNLOAD_TARGET</key>
+	<string>הורדת יעד</string>
+	<key>HOME_FOLDER</key>
+	<string>תיקיית הבית</string>
+	<key>NEW_DIRECTORY_NAME_PLACEHOLDER</key>
+	<string>שם תיקייה</string>
+	<key>NEW_DIRECTORY_TITLE</key>
+	<string>תיקייה חדשה</string>
+	<key>NO</key>
+	<string>לא</string>
+	<key>NOTHING_TO_CANCEL</key>
+	<string>אין מה לבטל</string>
+	<key>NOTHING_TO_CLEAR</key>
+	<string>אין מה לנקות</string>
+	<key>OK</key>
+	<string>אישור</string>
+	<key>OPEN_WITH_</key>
+	<string>פתיחה באמצעות %@</string>
+	<key>PERCENTAGE</key>
+	<string>%u%%</string>
+	<key>RETRY</key>
+	<string>נסה שוב</string>
+	<key>SAVE_AS_PROMPT</key>
+	<string>בחירת יעד להורדת הקובץ.</string>
+	<key>SAVE_AS_PROMPT_</key>
+	<string>בחירת יעד להורדת "%@".</string>
+	<key>SAVE_INTO</key>
+	<string>יעד</string>
+	<key>SIZE_BYTES</key>
+	<string>%.1lf B</string>
+	<key>SIZE_KILOBYTES</key>
+	<string>%.1lf KB</string>
+	<key>SIZE_MEGABYTES</key>
+	<string>%.1lf MB</string>
+	<key>STATUS_CANCELLED</key>
+	<string>בוטל</string>
+	<key>STATUS_DOWNLOADING_SPEED</key>
+	<string>מוריד @ %@/שניה</string>
+	<key>STATUS_FAILED</key>
+	<string>נכשל - לחץ/י כדי לנסות שוב</string>
+	<key>STATUS_RETRYING</key>
+	<string>מנסה שוב...</string>
+	<key>STATUS_WAITING</key>
+	<string>ממתין...</string>
+	<key>STATUS_WAITING_AUTH</key>
+	<string>ממתין לאימות...</string>
+	<key>YES</key>
+	<string>כן</string>
+</dict>
+</plist>

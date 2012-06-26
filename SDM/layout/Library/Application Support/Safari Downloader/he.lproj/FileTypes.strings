@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3GPP video</key>
+	<string>סרטון 3GPP</string>
+	<key>AAC, M4* audio</key>
+	<string>AAC, M4* audio</string>
+	<key>AVI video</key>
+	<string>סרטון AVI</string>
+	<key>Android package</key>
+	<string>חבילת אנדרואיד</string>
+	<key>Apple Disk Image</key>
+	<string>תמונת דיסק של אפל</string>
+	<key>Archives</key>
+	<string>ארכיונים</string>
+	<key>Binary data</key>
+	<string>מידע בינארי</string>
+	<key>CSV document</key>
+	<string>מסמך CSV</string>
+	<key>Debian package</key>
+	<string>חבילת דביאן</string>
+	<key>Documents</key>
+	<string>מסמכים</string>
+	<key>Flash, MP4 video</key>
+	<string>פלאש, סרטון MP4</string>
+	<key>GIF image</key>
+	<string>תמונת GIF</string>
+	<key>Images</key>
+	<string>תמונות</string>
+	<key>JPEG image</key>
+	<string>תמונת JPEG</string>
+	<key>MPEG audio</key>
+	<string>שמע MPEG</string>
+	<key>MPEG video</key>
+	<string>סרטון MPEG</string>
+	<key>Media</key>
+	<string>מדיה</string>
+	<key>Microsoft Excel Document</key>
+	<string>מסמך אקסל</string>
+	<key>Microsoft PowerPoint Document</key>
+	<string>מסמך PowerPoint</string>
+	<key>Microsoft Word Document</key>
+	<string>מסמך Word</string>
+	<key>Miscellaneous</key>
+	<string>שונות</string>
+	<key>OGG</key>
+	<string>OGG</string>
+	<key>OpenDocument Graphics</key>
+	<string>OpenDocument Graphics</string>
+	<key>OpenDocument Presentation</key>
+	<string>מצגת OpenDocument</string>
+	<key>OpenDocument Spreadsheet</key>
+	<string>גיליון נתונים OpenDocument</string>
+	<key>OpenDocument Text</key>
+	<string>מסמך OpenDocument</string>
+	<key>PDF document</key>
+	<string>מסמך PDF</string>
+	<key>PNG image</key>
+	<string>תמונת PNG</string>
+	<key>Patch file</key>
+	<string>קובץ עדכון</string>
+	<key>Perl script</key>
+	<string>סקריפט Perl</string>
+	<key>Quicktime video</key>
+	<string>סרטון Quicktime</string>
+	<key>RAR archive</key>
+	<string>ארכיון RAR</string>
+	<key>Shell script</key>
+	<string>סקריפט מסוף</string>
+	<key>TIFF image</key>
+	<string>תמונת TIFF</string>
+	<key>Tape archive</key>
+	<string>ארכיון Tape</string>
+	<key>Targa image</key>
+	<string>תמונת Targa</string>
+	<key>Text document</key>
+	<string>מסמך טקסט</string>
+	<key>Torrent</key>
+	<string>טוררנט</string>
+	<key>WAVE audio</key>
+	<string>שמע WAVE</string>
+	<key>WMA</key>
+	<string>WMA</string>
+	<key>WMV</key>
+	<string>WMV</string>
+	<key>Windows Icon</key>
+	<string>אייקון Windows</string>
+	<key>Windows executable</key>
+	<string>תוכנית Windows</string>
+	<key>XML document</key>
+	<string>מסמך XML</string>
+	<key>ZIP archive</key>
+	<string>ארכיון ZIP</string>
+	<key>bzip2 Archive</key>
+	<string>ארכיון bzip2</string>
+	<key>gzip archive</key>
+	<string>ארכיון gzip</string>
+	<key>iCalendar</key>
+	<string>iCalendar</string>
+	<key>vCard</key>
+	<string>איש קשר</string>
+</dict>
+</plist>
