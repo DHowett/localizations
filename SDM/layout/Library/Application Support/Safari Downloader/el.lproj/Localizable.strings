@@ -1,0 +1,47 @@
+"DOWNLOADS_TITLE" = "Ληφθέντα Αρχεία";
+"DOWNLOAD_TARGET" = "Τοποθεσία λήψης";
+"DOWNLOAD_IMAGE" = "Κατέβασμα Εικόνας";
+"STATUS_RETRYING" = "Προσπάθεια για κατέβασμα...";
+"STATUS_FAILED" = "Απέτυχε - Πατήστε για νέα προσπάθεια";
+"STATUS_CANCELLED" = "Ακυρώθηκε";
+"STATUS_WAITING_AUTH" = "Περιμένετε για πιστοποίηση...";
+"STATUS_WAITING" = "Περιμένετε...";
+"STATUS_DOWNLOADING_SPEED" = "Ταχύτητα @ %@/s";
+"PERCENTAGE" = "%u%%";
+"CANCEL_ALL_PROMPT" = "Ακύρωση όλων των αρχείων που κατεβαίνουν;";
+"CLEAR_ALL_PROMPT" = "Καθαρισμός όλων των ληφθέντων;";
+"YES" = "Ναι";
+"NO" = "Όχι";
+"OK" = "OK";
+"RETRY" = "Προσπαθήστε ξανά";
+"DELETE" = "Διαγραφή";
+"CANCEL" = "Ακύρωση";
+"CLEAR" = "Καθαρισμός";
+"DONE" = "Ολοκληρώθηκε";
+"CANCEL_ALL_SHORT" = "Ακύρωση Όλων";
+"CLEAR_ALL_SHORT" = "Καθαρισμός Όλων";
+"NOTHING_TO_CANCEL" = "Δεν υπάρχει τίποτα";
+"NOTHING_TO_CLEAR" = "Δεν υπάρχει τίποτα";
+"SIZE_BYTES" = "%.1lf B";
+"SIZE_KILOBYTES" = "%.1lf KB";
+"SIZE_MEGABYTES" = "%.1lf MB";
+
+// Download Prompt
+"DOWNLOAD_PROMPT_TITLE" = "Κατέβασμα";
+"SAVE_INTO" = "Διαδρομή";
+"ACTION_DOWNLOAD" = "Κατέβασμα";
+"ACTION_VIEW" = "Προβολή";
+"ACTION_CANCEL" = "Ακύρωση";
+"ACTION_CHOOSE_DIRECTORY" = "Επιλογή";
+"ACTION_SAVE_AS" = "Αποθήκευση Εδώ";
+
+// Download Actions
+"OPEN_WITH_" = "’νοιγμα σε %@";
+
+// Other
+"SAVE_AS_PROMPT_" = "Διαλέξτε διαδρομή για το \"%@\".";
+"SAVE_AS_PROMPT" = "Διαλέξτε διαδρομή για το αρχείο.";
+"NEW_DIRECTORY_TITLE" = "Νέος Φάκελος";
+"NEW_DIRECTORY_NAME_PLACEHOLDER" = "Όνομα Φακέλου";
+"ACTION_CREATE_DIRECTORY" = "Δημιουργία";
+"HOME_FOLDER" = "Αρχικός Φάκελος";

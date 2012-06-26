@@ -1,0 +1,35 @@
+"DOWNLOADER_ENABLED" = "Κατέβασμα Αρχείων";
+"FILE_TYPES" = "Τύποι αρχείων";
+"AUTO_RETRY" = "Αυτόματη Επανάληψη αποτυχημένης προσπάθειας";
+"AUTO_RETRY_SETTINGS" = "Ρυθμίσεις Αυτόματης προσπάθειας";
+"MAX_CONCURRENT_DOWNLOADS" = "Μέγιστες παράλληλες λήψεις";
+
+"AUTO_RETRY_ENABLED" = "Αυτόματη επανάληψη για κατέβασμα απέτυχε";
+"RETRY_ATTEMPTS" = "Αριθμός προσπαθειών";
+
+"RETRY_ATTEMPTS_1" = "1 προσπάθεια";
+"RETRY_ATTEMPTS_2" = "2 προσπάθειες";
+"RETRY_ATTEMPTS_3" = "3 προσπάθειες";
+"RETRY_ATTEMPTS_4" = "4 προσπάθειες";
+"RETRY_ATTEMPTS_5" = "5 προσπάθειες";
+
+"RETRY_DELAY" = "Καθυστέρηση αυτόματης επανάληψης (Δευτερόλεπτα)";
+
+"FILE_TYPE_DISABLE_EXPLANATION" = "Απενεργοποιώντας έναν τύπο αρχείου θα κάνει τον Safari να μην σας ζητά να το κατεβάσει αλλά να συμπεριφέρεται κανονικά.";
+"BUILT_IN_TYPES" = "Ενσωματωμένοι τύποι αρχείων";
+"CUSTOM" = "Προσαρμοσμένοι";
+"ADD_FILE_TYPE" = "Προσθέστε τύπο αρχείου...";
+"NEW_FILE_TYPE" = "Νέος τύπος αρχείου";
+"ADD_FILE_TYPE_PROMPT" = "Προσθέστε πληροφορίες για το νέο τύπο αρχείο";
+"EDIT_FILE_TYPE_PROMPT" = "Δώστε τις πληροφορίες για αυτόν τον τύπο αρχείου";
+"SAVE" = "Αποθήκευση";
+"CANCEL" = "’κυρο";
+
+"DETAILS" = "Λεπτομέρειες";
+"NAME" = "Όνομα";
+"NAME_PLACEHOLDER" = "Όνομα Τύπου αρχείου";
+"EXTENSIONS_GROUP" = "Προσθήκες";
+"EXTENSIONS_PLACEHOLDER" = "Προσθήκη";
+"MIMETYPES_GROUP" = "Τύποι MIME";
+"MIMETYPES_PLACEHOLDER" = "Τύπος MIME";
+"DELETE_FILE_TYPE" = "Διαγραφή αυτού του τύπου αρχείου";
