@@ -27,13 +27,13 @@
 "SIZE_MEGABYTES" = "%.1lf MB";
 
 // Download Prompt
-"DOWNLOAD_PROMPT_TITLE" = "Κατέβασμα";
+"DOWNLOAD_PROMPT_TITLE" = "Λήψη";
 "SAVE_INTO" = "Διαδρομή";
-"ACTION_DOWNLOAD" = "Κατέβασμα";
+"ACTION_DOWNLOAD" = "Λήψη";
 "ACTION_VIEW" = "Προβολή";
 "ACTION_CANCEL" = "Ακύρωση";
-"ACTION_CHOOSE_DIRECTORY" = "Επιλογή";
-"ACTION_SAVE_AS" = "Αποθήκευση Εδώ";
+"ACTION_CHOOSE_DIRECTORY" = "Επιλογή φακέλου";
+"ACTION_SAVE_AS" = "Αποθήκευση ως";
 
 // Download Actions
 "OPEN_WITH_" = "’νοιγμα σε %@";
