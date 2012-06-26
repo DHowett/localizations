@@ -33,7 +33,7 @@
 	<key>DOWNLOADS_TITLE</key>
 	<string>Загрузки</string>
 	<key>DOWNLOAD_IMAGE</key>
-	<string>Загрузить изобр.</string>
+	<string>Загрузить изображение</string>
 	<key>DOWNLOAD_PROMPT_TITLE</key>
 	<string>Загрузить</string>
 	<key>DOWNLOAD_TARGET</key>
