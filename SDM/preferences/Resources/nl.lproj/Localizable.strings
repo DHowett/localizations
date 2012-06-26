@@ -1,7 +1,7 @@
 "ADD_FILE_TYPE" = "Voeg bestandstype toe...";
 "ADD_FILE_TYPE_PROMPT" = "Voer nieuw bestandstype informatie in";
 "AUTO_RETRY" = "Auto-Retry";
-"AUTO_RETRY_ENABLED" = "Auto-Retry mislukt";
+"AUTO_RETRY_ENABLED" = "Auto-Retry";
 "AUTO_RETRY_SETTINGS" = "Instellingen Auto-Retry";
 "BUILT_IN_TYPES" = "Ingebouwde Types";
 "CANCEL" = "Annuleer";
@@ -26,5 +26,5 @@
 "RETRY_ATTEMPTS_3" = "3 pogingen";
 "RETRY_ATTEMPTS_4" = "4 pogingen";
 "RETRY_ATTEMPTS_5" = "5 pogingen";
-"RETRY_DELAY" = "Automatisch opnieuw proberen wachtijd (Seconden)";
+"RETRY_DELAY" = "Auto-Retry Wachtijd (Seconden)";
 "SAVE" = "Bewaar";
