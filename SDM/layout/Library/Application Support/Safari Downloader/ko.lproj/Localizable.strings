@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTION_CANCEL</key>
+	<string>취소</string>
+	<key>ACTION_CHOOSE_DIRECTORY</key>
+	<string>선택</string>
+	<key>ACTION_CREATE_DIRECTORY</key>
+	<string>생성</string>
+	<key>ACTION_DOWNLOAD</key>
+	<string>다운로드</string>
+	<key>ACTION_SAVE_AS</key>
+	<string>이곳에 저장</string>
+	<key>ACTION_VIEW</key>
+	<string>보기</string>
+	<key>CANCEL</key>
+	<string>취소</string>
+	<key>CANCEL_ALL_PROMPT</key>
+	<string>모든 다운로드 취소?</string>
+	<key>CANCEL_ALL_SHORT</key>
+	<string>다운로드 취소</string>
+	<key>CLEAR</key>
+	<string>정리</string>
+	<key>CLEAR_ALL_PROMPT</key>
+	<string>모든 다운로드 정리?</string>
+	<key>CLEAR_ALL_SHORT</key>
+	<string>다운로드 정리</string>
+	<key>DELETE</key>
+	<string>삭제</string>
+	<key>DONE</key>
+	<string>완료</string>
+	<key>DOWNLOADS_TITLE</key>
+	<string>다운로드</string>
+	<key>DOWNLOAD_IMAGE</key>
+	<string>이미지 다운로드</string>
+	<key>DOWNLOAD_PROMPT_TITLE</key>
+	<string>다운로드</string>
+	<key>DOWNLOAD_TARGET</key>
+	<string>목표물 다운로드</string>
+	<key>HOME_FOLDER</key>
+	<string>홈 폴더</string>
+	<key>NEW_DIRECTORY_NAME_PLACEHOLDER</key>
+	<string>폴더 이름</string>
+	<key>NEW_DIRECTORY_TITLE</key>
+	<string>새 폴더</string>
+	<key>NO</key>
+	<string>아니오</string>
+	<key>NOTHING_TO_CANCEL</key>
+	<string>취소할것 없음</string>
+	<key>NOTHING_TO_CLEAR</key>
+	<string>정리할것 없음</string>
+	<key>OK</key>
+	<string>확인</string>
+	<key>OPEN_WITH_</key>
+	<string>%@ 로 열기</string>
+	<key>PERCENTAGE</key>
+	<string>%u%%</string>
+	<key>RETRY</key>
+	<string>재시도</string>
+	<key>SAVE_AS_PROMPT</key>
+	<string>파일 다운로드 위치를 정해주세요.</string>
+	<key>SAVE_AS_PROMPT_</key>
+	<string>"%@" 다운로드 위치를 정해주세요.</string>
+	<key>SAVE_INTO</key>
+	<string>위치</string>
+	<key>SIZE_BYTES</key>
+	<string>%.1lf B</string>
+	<key>SIZE_KILOBYTES</key>
+	<string>%.1lf KB</string>
+	<key>SIZE_MEGABYTES</key>
+	<string>%.1lf MB</string>
+	<key>STATUS_CANCELLED</key>
+	<string>취소됨</string>
+	<key>STATUS_DOWNLOADING_SPEED</key>
+	<string>다운로드 속도 %@/s</string>
+	<key>STATUS_FAILED</key>
+	<string>실패함 - 재시도 하려면 터치</string>
+	<key>STATUS_RETRYING</key>
+	<string>재시도 중...</string>
+	<key>STATUS_WAITING</key>
+	<string>기다리는 중...</string>
+	<key>STATUS_WAITING_AUTH</key>
+	<string>인증을 기다리는 중...</string>
+	<key>YES</key>
+	<string>예</string>
+</dict>
+</plist>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3GPP video</key>
+	<string>3GPP 비디오</string>
+	<key>AAC, M4* audio</key>
+	<string>AAC, M4* 오디오</string>
+	<key>AVI video</key>
+	<string>AVI 비디오</string>
+	<key>Android package</key>
+	<string>안드로이드 패키지</string>
+	<key>Apple Disk Image</key>
+	<string>애플 디스크 이미지</string>
+	<key>Archives</key>
+	<string>압축 파일</string>
+	<key>Binary data</key>
+	<string>이진 데이터</string>
+	<key>CSV document</key>
+	<string>CSV 문서</string>
+	<key>Debian package</key>
+	<string>Debian 패키지</string>
+	<key>Documents</key>
+	<string>문서</string>
+	<key>Flash, MP4 video</key>
+	<string>Flash, MP4 비디오</string>
+	<key>GIF image</key>
+	<string>GIF 이미지</string>
+	<key>Images</key>
+	<string>이미지</string>
+	<key>JPEG image</key>
+	<string>JPEG 이미지</string>
+	<key>MPEG audio</key>
+	<string>MPEG 오디오</string>
+	<key>MPEG video</key>
+	<string>MPEG 비디오</string>
+	<key>Media</key>
+	<string>미디어</string>
+	<key>Microsoft Excel Document</key>
+	<string>엑셀 문서</string>
+	<key>Microsoft PowerPoint Document</key>
+	<string>파워포인트 문서</string>
+	<key>Microsoft Word Document</key>
+	<string>워드 문서</string>
+	<key>Miscellaneous</key>
+	<string>기타</string>
+	<key>OGG</key>
+	<string>OGG</string>
+	<key>OpenDocument Graphics</key>
+	<string>오픈오피스 그래픽</string>
+	<key>OpenDocument Presentation</key>
+	<string>오픈오피스 프레젠테이션</string>
+	<key>OpenDocument Spreadsheet</key>
+	<string>오픈오피스 스프레드시트</string>
+	<key>OpenDocument Text</key>
+	<string>오픈오피스 텍스트</string>
+	<key>PDF document</key>
+	<string>PDF 문서</string>
+	<key>PNG image</key>
+	<string>PNG 이미지</string>
+	<key>Patch file</key>
+	<string>패치 파일</string>
+	<key>Perl script</key>
+	<string>Perl 스크립트</string>
+	<key>Quicktime video</key>
+	<string>QuickTime 비디오</string>
+	<key>RAR archive</key>
+	<string>RAR 압축 파일</string>
+	<key>Shell script</key>
+	<string>Shell 스크립트</string>
+	<key>TIFF image</key>
+	<string>TIFF 이미지</string>
+	<key>Tape archive</key>
+	<string>Tape 압축 파일</string>
+	<key>Targa image</key>
+	<string>Targa 이미지</string>
+	<key>Text document</key>
+	<string>텍스트 문서</string>
+	<key>Torrent</key>
+	<string>토렌트</string>
+	<key>WAVE audio</key>
+	<string>WAVE 오디오</string>
+	<key>WMA</key>
+	<string>WMA</string>
+	<key>WMV</key>
+	<string>WMV</string>
+	<key>Windows Icon</key>
+	<string>윈도우 아이콘</string>
+	<key>Windows executable</key>
+	<string>윈도우 실행 파일</string>
+	<key>XML document</key>
+	<string>XML 문서</string>
+	<key>ZIP archive</key>
+	<string>ZIP 압축 파일</string>
+	<key>bzip2 Archive</key>
+	<string>bzip2 압축 파일</string>
+	<key>gzip archive</key>
+	<string>gzip 압축 파일</string>
+	<key>iCalendar</key>
+	<string>iCalendar</string>
+	<key>vCard</key>
+	<string>vCard</string>
+</dict>
+</plist>
