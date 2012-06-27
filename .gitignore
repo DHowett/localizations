@@ -1,0 +1,5 @@
+obj
+framework
+*.deb
+_
+.theos
