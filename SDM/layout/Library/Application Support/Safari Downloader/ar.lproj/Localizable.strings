@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTION_CANCEL</key>
+	<string>إلغاء</string>
+	<key>ACTION_CHOOSE_DIRECTORY</key>
+	<string>اختار</string>
+	<key>ACTION_CREATE_DIRECTORY</key>
+	<string>كون</string>
+	<key>ACTION_DOWNLOAD</key>
+	<string>تحميل</string>
+	<key>ACTION_SAVE_AS</key>
+	<string>حفظ في</string>
+	<key>ACTION_VIEW</key>
+	<string>عرض</string>
+	<key>CANCEL</key>
+	<string>إلغاء</string>
+	<key>CANCEL_ALL_PROMPT</key>
+	<string>إلغاء جميع التحميلات</string>
+	<key>CANCEL_ALL_SHORT</key>
+	<string>إلغاء الجميع</string>
+	<key>CLEAR</key>
+	<string>مسح</string>
+	<key>CLEAR_ALL_PROMPT</key>
+	<string>مسح جميع التحميلات؟</string>
+	<key>CLEAR_ALL_SHORT</key>
+	<string>مسح الجميع</string>
+	<key>DELETE</key>
+	<string>مسح</string>
+	<key>DONE</key>
+	<string>تم</string>
+	<key>DOWNLOADS_TITLE</key>
+	<string>التنزيلات</string>
+	<key>DOWNLOAD_IMAGE</key>
+	<string>تحميل الصوره</string>
+	<key>DOWNLOAD_PROMPT_TITLE</key>
+	<string>تحميل</string>
+	<key>DOWNLOAD_TARGET</key>
+	<string>مكان التحميل</string>
+	<key>HOME_FOLDER</key>
+	<string>الملف الاساسي</string>
+	<key>NEW_DIRECTORY_NAME_PLACEHOLDER</key>
+	<string>اسم الملف</string>
+	<key>NEW_DIRECTORY_TITLE</key>
+	<string>ملف جديد</string>
+	<key>NO</key>
+	<string>لا</string>
+	<key>NOTHING_TO_CANCEL</key>
+	<string>لا يوجد شئ للإلغاء</string>
+	<key>NOTHING_TO_CLEAR</key>
+	<string>لا يوجد شئ للإلغاء</string>
+	<key>OK</key>
+	<string>نعم</string>
+	<key>OPEN_WITH_</key>
+	<string>فتح باستخدام</string>
+	<key>PERCENTAGE</key>
+	<string>النسبة</string>
+	<key>RETRY</key>
+	<string>إعاده المحاوله</string>
+	<key>SAVE_AS_PROMPT</key>
+	<string>اختار مكان تحميل الملف</string>
+	<key>SAVE_AS_PROMPT_</key>
+	<string>"%@"اختار مكان تحميل الملف</string>
+	<key>SAVE_INTO</key>
+	<string>مكان الوصول</string>
+	<key>SIZE_BYTES</key>
+	<string>%.١١f B</string>
+	<key>SIZE_KILOBYTES</key>
+	<string>%.١١f KB</string>
+	<key>SIZE_MEGABYTES</key>
+	<string>%.١١f MB</string>
+	<key>STATUS_CANCELLED</key>
+	<string>تم الإلغاء</string>
+	<key>STATUS_DOWNLOADING_SPEED</key>
+	<string>تحميل @ %@/s</string>
+	<key>STATUS_FAILED</key>
+	<string>فشات - إضغط لإعادة المحاوله</string>
+	<key>STATUS_RETRYING</key>
+	<string>إعادة المحاوله...</string>
+	<key>STATUS_WAITING</key>
+	<string>إنتظار...</string>
+	<key>STATUS_WAITING_AUTH</key>
+	<string>بانتظار المصادقة</string>
+	<key>YES</key>
+	<string>نعم</string>
+</dict>
+</plist>

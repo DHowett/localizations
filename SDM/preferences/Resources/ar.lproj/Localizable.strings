@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADD_FILE_TYPE</key>
+	<string>إضافة نوع ملف...</string>
+	<key>ADD_FILE_TYPE_PROMPT</key>
+	<string>أدخل بيانات الملف الجديد</string>
+	<key>AUTO_RETRY</key>
+	<string>إعاده أوتوماتيكيه</string>
+	<key>AUTO_RETRY_ENABLED</key>
+	<string>تمكين الإعادة الأوتوماتيكيه</string>
+	<key>AUTO_RETRY_SETTINGS</key>
+	<string>تعديلات إعادة المحوله الأتوماتيكيه</string>
+	<key>BUILT_IN_TYPES</key>
+	<string>الأنواع المدمجة</string>
+	<key>CANCEL</key>
+	<string>إلغاء</string>
+	<key>CUSTOM</key>
+	<string>عاده</string>
+	<key>DELETE_FILE_TYPE</key>
+	<string>مسح نوع الملف</string>
+	<key>DETAILS</key>
+	<string>بيانات</string>
+	<key>DOWNLOADER_ENABLED</key>
+	<string>تحميل الملفات</string>
+	<key>EDIT_FILE_TYPE_PROMPT</key>
+	<string>أدخل المعلومات الخاصة بنوع هذا الملف</string>
+	<key>EXTENSIONS_GROUP</key>
+	<string>Extensions</string>
+	<key>EXTENSIONS_PLACEHOLDER</key>
+	<string>Extension</string>
+	<key>FILE_TYPES</key>
+	<string>أنواع الملفات</string>
+	<key>FILE_TYPE_DISABLE_EXPLANATION</key>
+	<string>تعطيل نوع ملف سيسبب safari ألا يطالبك فيما يتعلق بتحميل ملف من نفس النوع و بذلك يتصرف بشكل طبيعي</string>
+	<key>MAX_CONCURRENT_DOWNLOADS</key>
+	<string>أقصي تزامن للتحميلات</string>
+	<key>MIMETYPES_GROUP</key>
+	<string>MIME Types</string>
+	<key>MIMETYPES_PLACEHOLDER</key>
+	<string>MIME Type</string>
+	<key>NAME</key>
+	<string>الاسم</string>
+	<key>NAME_PLACEHOLDER</key>
+	<string>اسم النوع</string>
+	<key>NEW_FILE_TYPE</key>
+	<string>نوع ملف جديد</string>
+	<key>RETRY_ATTEMPTS</key>
+	<string>محاولات الإعادة</string>
+	<key>RETRY_ATTEMPTS_1</key>
+	<string>١ محاولة</string>
+	<key>RETRY_ATTEMPTS_2</key>
+	<string>٢ محاولة</string>
+	<key>RETRY_ATTEMPTS_3</key>
+	<string>٣ محاولة</string>
+	<key>RETRY_ATTEMPTS_4</key>
+	<string>٤ محاولة</string>
+	<key>RETRY_ATTEMPTS_5</key>
+	<string>٥ محاولة</string>
+	<key>RETRY_DELAY</key>
+	<string>تأخير إعادة المحاوله الأوتوماتيكيه (ثواني)</string>
+	<key>SAVE</key>
+	<string>حفظ</string>
+</dict>
+</plist>
