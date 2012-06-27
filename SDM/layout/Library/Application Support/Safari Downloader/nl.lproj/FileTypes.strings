@@ -22,7 +22,7 @@
 "Miscellaneous" = "Diversen";
 "MPEG audio" = "MPEG Audio";
 "MPEG video" = "MPEG Video";
-"OGG" = "OGG";
+"OGG" = "OGG Audio";
 "OpenDocument Graphics" = "OpenDocument Graphics";
 "OpenDocument Presentation" = "OpenDocument Presentation";
 "OpenDocument Spreadsheet" = "OpenDocument Spreadsheet";
@@ -41,9 +41,9 @@
 "Torrent" = "Torrent";
 "vCard" = "vCard";
 "WAVE audio" = "WAVE Audio";
-"Windows executable" = "Windows uitvoerbestand";
+"Windows executable" = "Windows Uitvoerbestand";
 "Windows Icon" = "Windows Icoon";
-"WMA" = "WMA";
-"WMV" = "WMV";
+"WMA" = "WMA Audio";
+"WMV" = "WMV Video";
 "XML document" = "XML Document";
 "ZIP archive" = "ZIP Archief";

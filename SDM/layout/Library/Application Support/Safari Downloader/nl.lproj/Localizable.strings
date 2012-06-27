@@ -3,7 +3,7 @@
 "ACTION_CREATE_DIRECTORY" = "Creëer";
 "ACTION_DOWNLOAD" = "Download";
 "ACTION_SAVE_AS" = "Opslaan";
-"ACTION_VIEW" = "Toon";
+"ACTION_VIEW" = "Weergeven";
 "CANCEL" = "Annuleer";
 "CANCEL_ALL_PROMPT" = "Alle Downloads Annuleren?";
 "CANCEL_ALL_SHORT" = "Annuleren";
