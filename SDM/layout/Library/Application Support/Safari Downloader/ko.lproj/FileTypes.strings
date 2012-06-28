@@ -2,6 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Dynamic library</key>
+	<string>Dynamic library</string>
+	<key>iPhone application</key>
+	<string>iPhone application</string>
+	<key>iPhone/iPod software update</key>
+	<string>iPhone/iPod software update</string>
+	<key>7zip archive</key>
+	<string>7zip 압축 파일</string>
+	<key>Matroska audio</key>
+	<string>Matroska 오디오</string>
+	<key>Matroska video</key>
+	<string>Matroska 비디오</string>
 	<key>3GPP video</key>
 	<string>3GPP 비디오</string>
 	<key>AAC, M4* audio</key>

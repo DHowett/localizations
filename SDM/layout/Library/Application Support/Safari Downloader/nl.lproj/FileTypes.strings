@@ -47,3 +47,10 @@
 "WMV" = "WMV Video";
 "XML document" = "XML Document";
 "ZIP archive" = "ZIP Archief";
+
+"7zip archive" = "7zip Archief";
+"Matroska audio" = "Matroska Audio";
+"Matroska video" = "Matroska Video";
+"Dynamic library" = "Dynamic Library";
+"iPhone application" = "iPhone Application";
+"iPhone/iPod software update" = "iPhone/iPod Software Update";

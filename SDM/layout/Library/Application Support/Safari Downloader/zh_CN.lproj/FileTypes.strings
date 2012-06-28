@@ -50,3 +50,10 @@
 "RAR archive" = "RAR 压缩包";
 "Microsoft Excel Document" = "Microsoft Excel 文档";
 "OpenDocument Graphics" = "OpenDocument 图表";
+
+"7zip Archive" = "7zip 压缩包";
+"Matroska audio" = "Matroska 音频";
+"Matroska video" = "Matroska 视频";
+"Dynamic library" = "Dynamic library";
+"iPhone application" = "iPhone application";
+"iPhone/iPod software update" = "iPhone/iPod software update";
