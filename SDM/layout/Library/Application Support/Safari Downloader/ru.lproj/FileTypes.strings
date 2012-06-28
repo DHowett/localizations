@@ -62,8 +62,8 @@
 	<string>Патч</string>
 	<key>Perl script</key>
 	<string>Скрипт Perl</string>
-	<key>Quicktime video</key>
-	<string>Quicktime видео</string>
+	<key>QuickTime video</key>
+	<string>QuickTime видео</string>
 	<key>RAR archive</key>
 	<string>Архив RAR</string>
 	<key>Shell script</key>
