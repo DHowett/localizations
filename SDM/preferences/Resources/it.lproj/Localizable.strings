@@ -1,0 +1,35 @@
+"DOWNLOADER_ENABLED" = "Download Files";
+"FILE_TYPES" = "Tipo file";
+"AUTO_RETRY" = "Riprova automaticamente";
+"AUTO_RETRY_SETTINGS" = "Impostazioni Auto-Riprova";
+"MAX_CONCURRENT_DOWNLOADS" = "Download massimi simultanei";
+
+"AUTO_RETRY_ENABLED" = "Auto-Riprova Abilitato";
+"RETRY_ATTEMPTS" = "Tentativi di riprova";
+
+"RETRY_ATTEMPTS_1" = "1 tentativo";
+"RETRY_ATTEMPTS_2" = "2 tentativo";
+"RETRY_ATTEMPTS_3" = "3 tentativo";
+"RETRY_ATTEMPTS_4" = "4 tentativo";
+"RETRY_ATTEMPTS_5" = "5 tentativo";
+
+"RETRY_DELAY" = "Ritardo Auto-Riprova (Secondi)";
+
+"FILE_TYPE_DISABLE_EXPLANATION" = "Disablitando il tipo di file causerà un ripristino della funzione originale di Safari.";
+"BUILT_IN_TYPES" = "Built-In Types";
+"CUSTOM" = "Custom";
+"ADD_FILE_TYPE" = "Aggiungi tipo di file...";
+"NEW_FILE_TYPE" = "Nuovo tipo di file";
+"ADD_FILE_TYPE_PROMPT" = "Aggiungi informazioni tipo di file";
+"EDIT_FILE_TYPE_PROMPT" = "Inserisci informazioni per questo tipo di file";
+"SAVE" = "Salva";
+"CANCEL" = "Cancella";
+
+"DETAILS" = "Dettagli";
+"NAME" = "Nome";
+"NAME_PLACEHOLDER" = "Nome tipo";
+"EXTENSIONS_GROUP" = "Estensione";
+"EXTENSIONS_PLACEHOLDER" = "Estensione";
+"MIMETYPES_GROUP" = "Tipo MIME";
+"MIMETYPES_PLACEHOLDER" = "Tipo MIME";
+"DELETE_FILE_TYPE" = "Elimina tipo di file";
