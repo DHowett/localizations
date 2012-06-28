@@ -15,7 +15,7 @@
 
 "RETRY_DELAY" = "Ritardo Auto-Riprova (Secondi)";
 
-"FILE_TYPE_DISABLE_EXPLANATION" = "Disablitando il tipo di file causer‡ un ripristino della funzione originale di Safari.";
+"FILE_TYPE_DISABLE_EXPLANATION" = "Disabilitando il tipo di file causer√† un ripristino della funzione originale di Safari.";
 "BUILT_IN_TYPES" = "Built-In Types";
 "CUSTOM" = "Custom";
 "ADD_FILE_TYPE" = "Aggiungi tipo di file...";
