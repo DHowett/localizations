@@ -54,6 +54,6 @@
 "7zip Archive" = "7zip 压缩包";
 "Matroska audio" = "Matroska 音频";
 "Matroska video" = "Matroska 视频";
-"Dynamic library" = "Dynamic library";
-"iPhone application" = "iPhone application";
-"iPhone/iPod software update" = "iPhone/iPod software update";
+"Dynamic library" = "动态链接库";
+"iPhone application" = "iPhone 应用程序";
+"iPhone/iPod software update" = "iPhone/iPod 软件更新";
