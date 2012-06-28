@@ -1,4 +1,3 @@
-
 // Categories
 "Archives" = "壓縮包";
 "Documents" = "文件";
@@ -55,6 +54,6 @@
 "7zip Archive" = "7zip 壓縮包";
 "Matroska audio" = "Matroska 音訊";
 "Matroska video" = "Matroska 視訊";
-"Dynamic library" = "Dynamic library";
-"iPhone application" = "iPhone application";
-"iPhone/iPod software update" = "iPhone/iPod software update";
+"Dynamic library" = "動態鏈接庫";
+"iPhone application" = "iPhone 應用程式";
+"iPhone/iPod software update" = "iPhone/iPod 軟體更新";
