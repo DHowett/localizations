@@ -1,8 +1,8 @@
-include ../framework/makefiles/common.mk
+include $(THEOS)/makefiles/common.mk
 
 SUBPROJECTS = preferences
 
-include ../framework/makefiles/aggregate.mk
+include $(THEOS_MAKE_PATH)/aggregate.mk
 
 ifeq ($(findstring RELEASE,$(THEOS_SCHEMA)),)
 PACKAGE_BUILDNAME = private
