@@ -1,5 +1,5 @@
 // Categories
-"Archives" = "壓縮包";
+"Archives" = "壓縮檔";
 "Documents" = "文件";
 "Images" = "圖像";
 "Media" = "多媒體";
@@ -7,7 +7,7 @@
 
 // Types
 "PNG image" = "PNG 圖像";
-"ZIP archive" = "ZIP 壓縮包";
+"ZIP archive" = "ZIP 壓縮檔";
 "Apple Disk Image" = "Apple 磁盤鏡像";
 "3GPP video" = "3GPP 視訊";
 "PDF document" = "PDF 文件";
@@ -15,7 +15,7 @@
 "Tape archive" = "Tape 存檔";
 "JPEG image" = "JPEG 圖像";
 "WAVE audio" = "WAVE 音訊";
-"bzip2 Archive" = "bzip2 壓縮包";
+"bzip2 Archive" = "bzip2 壓縮檔";
 "AVI video" = "AVI 視訊";
 "Microsoft PowerPoint Document" = "Microsoft PowerPoint 文件";
 "TIFF image" = "TIFF 圖像";
@@ -29,7 +29,7 @@
 "OpenDocument Text" = "OpenDocument 文本";
 "Shell script" = "Shell 腳本";
 "CSV document" = "CSV 文件";
-"gzip archive" = "gzip 壓縮包";
+"gzip archive" = "gzip 壓縮檔";
 "Binary data" = "二進制資料";
 "OpenDocument Presentation" = "OpenDocument 演示";
 "vCard" = "vCard";
@@ -47,11 +47,11 @@
 "Microsoft Word Document" = "Microsoft Word 文件";
 "WMV" = "WMV";
 "Patch file" = "補丁檔案";
-"RAR archive" = "RAR 壓縮包";
+"RAR archive" = "RAR 壓縮檔";
 "Microsoft Excel Document" = "Microsoft Excel 文件";
 "OpenDocument Graphics" = "OpenDocument 圖表";
 
-"7zip archive" = "7zip 壓縮包";
+"7zip archive" = "7zip 壓縮檔";
 "Matroska audio" = "Matroska 音訊";
 "Matroska video" = "Matroska 視訊";
 "Dynamic library" = "動態鏈接庫";
