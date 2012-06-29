@@ -1,35 +1,30 @@
-"DOWNLOADER_ENABLED" = "Download Files";
-"FILE_TYPES" = "Tipo file";
+"ADD_FILE_TYPE" = "Aggiungi un tipo di file...";
+"ADD_FILE_TYPE_PROMPT" = "Aggiungi informazioni tipo di file";
 "AUTO_RETRY" = "Riprova automaticamente";
-"AUTO_RETRY_SETTINGS" = "Impostazioni Auto-Riprova";
-"MAX_CONCURRENT_DOWNLOADS" = "Download massimi simultanei";
-
 "AUTO_RETRY_ENABLED" = "Auto-Riprova Abilitato";
+"AUTO_RETRY_SETTINGS" = "Impostazioni Auto-Riprova";
+"BUILT_IN_TYPES" = "File integrati";
+"CANCEL" = "Cancella";
+"CUSTOM" = "File personalizzati";
+"DELETE_FILE_TYPE" = "Elimina tipo di file";
+"DETAILS" = "Dettagli";
+"DOWNLOADER_ENABLED" = "Attiva il download dei file";
+"EDIT_FILE_TYPE_PROMPT" = "Inserisci informazioni per questo tipo di file";
+"EXTENSIONS_GROUP" = "Estensione";
+"EXTENSIONS_PLACEHOLDER" = "Estensione";
+"FILE_TYPE_DISABLE_EXPLANATION" = "Disablitando un tipo di file si ritornerà alla funzione originale di download in Safari.";
+"FILE_TYPES" = "Tipi di file";
+"MAX_CONCURRENT_DOWNLOADS" = "Download simultanei";
+"MIMETYPES_GROUP" = "Tipo MIME";
+"MIMETYPES_PLACEHOLDER" = "Tipo MIME";
+"NAME" = "Nome";
+"NAME_PLACEHOLDER" = "Nome tipo di file";
+"NEW_FILE_TYPE" = "Nuovo tipo di file";
 "RETRY_ATTEMPTS" = "Tentativi di riprova";
-
 "RETRY_ATTEMPTS_1" = "1 tentativo";
 "RETRY_ATTEMPTS_2" = "2 tentativo";
 "RETRY_ATTEMPTS_3" = "3 tentativo";
 "RETRY_ATTEMPTS_4" = "4 tentativo";
 "RETRY_ATTEMPTS_5" = "5 tentativo";
-
 "RETRY_DELAY" = "Ritardo Auto-Riprova (Secondi)";
-
-"FILE_TYPE_DISABLE_EXPLANATION" = "Disabilitando il tipo di file causerà un ripristino della funzione originale di Safari.";
-"BUILT_IN_TYPES" = "Built-In Types";
-"CUSTOM" = "Custom";
-"ADD_FILE_TYPE" = "Aggiungi tipo di file...";
-"NEW_FILE_TYPE" = "Nuovo tipo di file";
-"ADD_FILE_TYPE_PROMPT" = "Aggiungi informazioni tipo di file";
-"EDIT_FILE_TYPE_PROMPT" = "Inserisci informazioni per questo tipo di file";
 "SAVE" = "Salva";
-"CANCEL" = "Cancella";
-
-"DETAILS" = "Dettagli";
-"NAME" = "Nome";
-"NAME_PLACEHOLDER" = "Nome tipo";
-"EXTENSIONS_GROUP" = "Estensione";
-"EXTENSIONS_PLACEHOLDER" = "Estensione";
-"MIMETYPES_GROUP" = "Tipo MIME";
-"MIMETYPES_PLACEHOLDER" = "Tipo MIME";
-"DELETE_FILE_TYPE" = "Elimina tipo di file";
