@@ -1,15 +1,15 @@
-"DOWNLOADS_TITLE" = "Ληφθέντα Αρχεία";
-"DOWNLOAD_TARGET" = "Τοποθεσία λήψης";
-"DOWNLOAD_IMAGE" = "Κατέβασμα Εικόνας";
-"STATUS_RETRYING" = "Προσπάθεια για κατέβασμα...";
+"DOWNLOADS_TITLE" = "Λήψεις";
+"DOWNLOAD_TARGET" = "Λήψη αρχείου";
+"DOWNLOAD_IMAGE" = "Λήψη Εικόνας";
+"STATUS_RETRYING" = "Νέα προσπάθεια για λήψη...";
 "STATUS_FAILED" = "Απέτυχε - Πατήστε για νέα προσπάθεια";
 "STATUS_CANCELLED" = "Ακυρώθηκε";
 "STATUS_WAITING_AUTH" = "Περιμένετε για πιστοποίηση...";
 "STATUS_WAITING" = "Περιμένετε...";
 "STATUS_DOWNLOADING_SPEED" = "Ταχύτητα @ %@/s";
 "PERCENTAGE" = "%u%%";
-"CANCEL_ALL_PROMPT" = "Ακύρωση όλων των αρχείων που κατεβαίνουν;";
-"CLEAR_ALL_PROMPT" = "Καθαρισμός όλων των ληφθέντων;";
+"CANCEL_ALL_PROMPT" = "Ακύρωση όλων των λήψεων;";
+"CLEAR_ALL_PROMPT" = "Καθαρισμός όλων των λήψεων;";
 "YES" = "Ναι";
 "NO" = "Όχι";
 "OK" = "OK";
@@ -36,7 +36,7 @@
 "ACTION_SAVE_AS" = "Αποθήκευση ως";
 
 // Download Actions
-"OPEN_WITH_" = "’νοιγμα σε %@";
+"OPEN_WITH_" = "Άνοιγμα σε %@";
 
 // Other
 "SAVE_AS_PROMPT_" = "Διαλέξτε διαδρομή για το \"%@\".";
