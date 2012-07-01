@@ -1,19 +1,19 @@
 "DOWNLOADER_ENABLED" = "Λήψη Αρχείων";
 "FILE_TYPES" = "Τύποι αρχείων";
-"AUTO_RETRY" = "Αυτόματη νέα προσπάθεια λήψης";
-"AUTO_RETRY_SETTINGS" = "Ρυθμίσεις Αυτόματης νέας προσπάθειας";
+"AUTO_RETRY" = "Αυτόματη νέα δοκιμή λήψης";
+"AUTO_RETRY_SETTINGS" = "Ρυθμίσεις Αυτόματης νέας δοκιμής";
 "MAX_CONCURRENT_DOWNLOADS" = "Αριθμός παράλληλων λήψεων";
 
-"AUTO_RETRY_ENABLED" = "Αυτόματη νέα προσπάθεια για λήψη απέτυχε";
-"RETRY_ATTEMPTS" = "Αριθμός προσπαθειών";
+"AUTO_RETRY_ENABLED" = "Αυτόματη νέα δοκιμή για λήψη απέτυχε";
+"RETRY_ATTEMPTS" = "Αριθμός δοκιμών";
 
-"RETRY_ATTEMPTS_1" = "1 προσπάθεια";
-"RETRY_ATTEMPTS_2" = "2 προσπάθειες";
-"RETRY_ATTEMPTS_3" = "3 προσπάθειες";
-"RETRY_ATTEMPTS_4" = "4 προσπάθειες";
-"RETRY_ATTEMPTS_5" = "5 προσπάθειες";
+"RETRY_ATTEMPTS_1" = "1 δοκιμή";
+"RETRY_ATTEMPTS_2" = "2 δοκιμές";
+"RETRY_ATTEMPTS_3" = "3 δοκιμές";
+"RETRY_ATTEMPTS_4" = "4 δοκιμές";
+"RETRY_ATTEMPTS_5" = "5 δοκιμές";
 
-"RETRY_DELAY" = "Καθυστέρηση αυτόματης νέας επανάληψης (Δευτερόλεπτα)";
+"RETRY_DELAY" = "Καθυστέρηση αυτόματης νέας δοκιμής (Δευτερόλεπτα)";
 
 "FILE_TYPE_DISABLE_EXPLANATION" = "Αν απενεργοποιήσετε έναν τύπο αρχείου τότε ο Safari δε σας ζητάει να το κατεβάσετε αλλά θα συμπεριφέρεται κανονικά.";
 "BUILT_IN_TYPES" = "Ενσωματωμένοι";
