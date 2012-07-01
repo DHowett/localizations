@@ -1,8 +1,8 @@
 "DOWNLOADS_TITLE" = "Λήψεις";
 "DOWNLOAD_TARGET" = "Λήψη αρχείου";
 "DOWNLOAD_IMAGE" = "Λήψη Εικόνας";
-"STATUS_RETRYING" = "Νέα προσπάθεια για λήψη...";
-"STATUS_FAILED" = "Απέτυχε - Πατήστε για νέα προσπάθεια";
+"STATUS_RETRYING" = "Νέα δοκιμή για λήψη...";
+"STATUS_FAILED" = "Απέτυχε - Πατήστε για νέα δοκιμή";
 "STATUS_CANCELLED" = "Ακυρώθηκε";
 "STATUS_WAITING_AUTH" = "Περιμένετε για πιστοποίηση...";
 "STATUS_WAITING" = "Περιμένετε...";
@@ -13,7 +13,7 @@
 "YES" = "Ναι";
 "NO" = "Όχι";
 "OK" = "OK";
-"RETRY" = "Προσπαθήστε ξανά";
+"RETRY" = "Δοκιμάστε ξανά";
 "DELETE" = "Διαγραφή";
 "CANCEL" = "Ακύρωση";
 "CLEAR" = "Καθαρισμός";
