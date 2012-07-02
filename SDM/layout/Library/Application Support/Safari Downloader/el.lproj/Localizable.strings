@@ -33,7 +33,7 @@
 "ACTION_VIEW" = "Προβολή";
 "ACTION_CANCEL" = "Ακύρωση";
 "ACTION_CHOOSE_DIRECTORY" = "Επιλογή φακέλου";
-"ACTION_SAVE_AS" = "Αποθήκευση ως";
+"ACTION_SAVE_AS" = "Αποθήκευση εδώ";
 
 // Download Actions
 "OPEN_WITH_" = "Άνοιγμα σε %@";
