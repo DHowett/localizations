@@ -4,7 +4,7 @@
 "AUTO_RETRY_SETTINGS" = "Auto-Réessayer Paramètres";
 "MAX_CONCURRENT_DOWNLOADS" = "Max. de Téléchgs. Simultanés";
 
-"AUTO_RETRY_ENABLED" = "Auto-Réessayé a échoué";
+"AUTO_RETRY_ENABLED" = "Auto-Réessayer a échoué";
 "RETRY_ATTEMPTS" = "Tentatives de Relance";
 
 "RETRY_ATTEMPTS_1" = "1 Tentative";
@@ -13,7 +13,7 @@
 "RETRY_ATTEMPTS_4" = "4 Tentatives";
 "RETRY_ATTEMPTS_5" = "5 Tentatives";
 
-"RETRY_DELAY" = "Délai de Auto-Réessayer (Seconds)";
+"RETRY_DELAY" = "Délai de Auto-Réessayer (Secondes)";
 
 "FILE_TYPE_DISABLE_EXPLANATION" = "Si vous désactivez un type de fichier, Safari ne vous demandera pas de télécharger un fichier de ce type, et au lieu se comportera normalement.";
 "BUILT_IN_TYPES" = "Types de Fichiers Inclus";
