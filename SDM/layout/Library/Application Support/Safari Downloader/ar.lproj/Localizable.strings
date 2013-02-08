@@ -55,7 +55,7 @@
 	<key>OPEN_WITH_</key>
 	<string>فتح باستخدام</string>
 	<key>PERCENTAGE</key>
-	<string>النسبة</string>
+	<string>%u%%</string>
 	<key>RETRY</key>
 	<string>إعاده المحاوله</string>
 	<key>SAVE_AS_PROMPT</key>
