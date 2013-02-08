@@ -1,0 +1,35 @@
+"DOWNLOADER_ENABLED" = "Pobieranie Plików";
+"FILE_TYPES" = "Typy Plików";
+"AUTO_RETRY" = "Auto. Wznawianie";
+"AUTO_RETRY_SETTINGS" = "Ustawienia Auto. Wznawiania";
+"MAX_CONCURRENT_DOWNLOADS" = "Równoczesne Pobieranie";
+
+"AUTO_RETRY_ENABLED" = "Wznowienie Nie Powiodło Się";
+"RETRY_ATTEMPTS" = "Próby Wznowienia";
+
+"RETRY_ATTEMPTS_1" = "1 próba";
+"RETRY_ATTEMPTS_2" = "2 próby";
+"RETRY_ATTEMPTS_3" = "3 próby";
+"RETRY_ATTEMPTS_4" = "4 próby";
+"RETRY_ATTEMPTS_5" = "5 prób";
+
+"RETRY_DELAY" = "Opóźnienie Auto. Wznawiania (Sekundy)";
+
+"FILE_TYPE_DISABLE_EXPLANATION" = "Wyłączenie typu pliku spowoduje, że Safari nie wyświetli monitu o pobieranie pliku tego typu, a zamiast tego zachowa się normalnie.";
+"BUILT_IN_TYPES" = "Wbudowane Typy";
+"CUSTOM" = "Własne";
+"ADD_FILE_TYPE" = "Dodaj Typ Pliku...";
+"NEW_FILE_TYPE" = "Nowy Typ Pliku";
+"ADD_FILE_TYPE_PROMPT" = "Wprowadź informacje nowego typu pliku";
+"EDIT_FILE_TYPE_PROMPT" = "Wprowadź informacje dla tego typu pliku";
+"SAVE" = "Zapisz";
+"CANCEL" = "Anuluj";
+
+"DETAILS" = "Szczegóły";
+"NAME" = "Nazwa";
+"NAME_PLACEHOLDER" = "Podaj Nazwę";
+"EXTENSIONS_GROUP" = "Rozszerzenia";
+"EXTENSIONS_PLACEHOLDER" = "Rozszerzenie";
+"MIMETYPES_GROUP" = "Typy MIME";
+"MIMETYPES_PLACEHOLDER" = "Typ MIME";
+"DELETE_FILE_TYPE" = "Usuń Typ Pliku";

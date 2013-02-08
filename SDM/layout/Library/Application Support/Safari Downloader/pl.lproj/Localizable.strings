@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTION_CANCEL</key>
+	<string>Anuluj</string>
+	<key>ACTION_CHOOSE_DIRECTORY</key>
+	<string>Wybierz</string>
+	<key>ACTION_CREATE_DIRECTORY</key>
+	<string>Stwórz</string>
+	<key>ACTION_DOWNLOAD</key>
+	<string>Pobierz</string>
+	<key>ACTION_SAVE_AS</key>
+	<string>Zapisz Tutaj</string>
+	<key>ACTION_VIEW</key>
+	<string>Obejrzyj</string>
+	<key>CANCEL</key>
+	<string>Anuluj</string>
+	<key>CANCEL_ALL_PROMPT</key>
+	<string>Anulować Wszystkie Pobierania?</string>
+	<key>CANCEL_ALL_SHORT</key>
+	<string>Anuluj</string>
+	<key>CLEAR</key>
+	<string>Wyczyść</string>
+	<key>CLEAR_ALL_PROMPT</key>
+	<string>Wyczyścić Wszystkie Pobrane Rzeczy?</string>
+	<key>CLEAR_ALL_SHORT</key>
+	<string>Wyczyść</string>
+	<key>DELETE</key>
+	<string>Usuń</string>
+	<key>DONE</key>
+	<string>Gotowe</string>
+	<key>DOWNLOADS_TITLE</key>
+	<string>Pobrane Rzeczy</string>
+	<key>DOWNLOAD_IMAGE</key>
+	<string>Pobierz Obrazek</string>
+	<key>DOWNLOAD_PROMPT_TITLE</key>
+	<string>Pobierz</string>
+	<key>DOWNLOAD_TARGET</key>
+	<string>Pobierz</string>
+	<key>HOME_FOLDER</key>
+	<string>Folder Domowy</string>
+	<key>NEW_DIRECTORY_NAME_PLACEHOLDER</key>
+	<string>Nazwa Folderu</string>
+	<key>NEW_DIRECTORY_TITLE</key>
+	<string>Nowy Folder</string>
+	<key>NO</key>
+	<string>Nie</string>
+	<key>NOTHING_TO_CANCEL</key>
+	<string>Nie Ma Nic Do Anulowania</string>
+	<key>NOTHING_TO_CLEAR</key>
+	<string>Nie Ma Nic Do Wyczyszczenia</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OPEN_WITH_</key>
+	<string>Otwórz w %@</string>
+	<key>PERCENTAGE</key>
+	<string>%u%%</string>
+	<key>RETRY</key>
+	<string>Spróbuj Ponownie</string>
+	<key>SAVE_AS_PROMPT</key>
+	<string>Wybierz miejsce docelowe dla pliku.</string>
+	<key>SAVE_AS_PROMPT_</key>
+	<string>Wybierz miejsce docelowe dla "%@".</string>
+	<key>SAVE_INTO</key>
+	<string>Pobierz Do</string>
+	<key>SIZE_BYTES</key>
+	<string>%.1lf B</string>
+	<key>SIZE_KILOBYTES</key>
+	<string>%.1lf KB</string>
+	<key>SIZE_MEGABYTES</key>
+	<string>%.1lf MB</string>
+	<key>STATUS_CANCELLED</key>
+	<string>Anulowane</string>
+	<key>STATUS_DOWNLOADING_SPEED</key>
+	<string>Pobieranie @ %@/s</string>
+	<key>STATUS_FAILED</key>
+	<string>Nie powiodło się - Dotknij, aby Spróbować Ponownie</string>
+	<key>STATUS_RETRYING</key>
+	<string>Ponawianie...</string>
+	<key>STATUS_WAITING</key>
+	<string>Oczekiwanie...</string>
+	<key>STATUS_WAITING_AUTH</key>
+	<string>Oczekiwanie na uwierzytelnienie...</string>
+	<key>YES</key>
+	<string>Tak</string>
+</dict>
+</plist>
